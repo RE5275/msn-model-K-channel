@@ -57,4 +57,4 @@ effects and predict the role of Kv4.2. Front Neural Circuits 12, 3
 [Lindroos2021]: Lindroos R & Hellgren Kotaleski J (2021). Predicting
 complex spikes in striatal projection neurons of the direct pathway
 following neuromodulation by acetylcholine and dopamine. Eur J Neurosci
-53, 2117–2134 (https://doi.org/10.1111/ejn.14891).
+53, 2117–2134 (https://doi.org/10.1111/ejn.14891)."# msn-model-K-channel" 
